@@ -1,4 +1,4 @@
-4927
+4923
 92C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\lmdb-linux-arm\node.abi102.musl.node121436361000000000 0
 90C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\svgo\plugins\removeStyleElement.js121436361000000000 0
 101C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\@parcel\bundler-default\src\DefaultBundler.js121436361000000000 0
@@ -50,7 +50,7 @@
 107C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\@swc\helpers\src\_class_private_field_loose_base.js132902623550000000 0
 75C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\yaml\types\pairs.js121436361000000000 0
 84C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\css-tree\lib\walker\index.js121436361000000000 0
-47C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist133178302100438435 1
+47C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist133178328496165022 1
 96C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\features\web-serial.js121436361000000000 0
 103C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\env-dep133178260185973697 1
 69C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\fastq\LICENSE121436361000000000 0
@@ -92,7 +92,7 @@
 104C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-initial-letter.js121436361000000000 0
 74C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\posthtml\readme.md121436361000000000 0
 81C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\cosmiconfig\dist\index.js121436361000000000 0
-55C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\package.json133178298666993298 0
+55C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\package.json133178325997174914 0
 75C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\js-tokens\README.md131616138350000000 0
 55C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\README.es.md133178240737610905 0
 92C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Function.js121436361000000000 0
@@ -165,7 +165,7 @@
 56C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\src\README.md133178218845619162 0
 66C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\terser\bin133178260182692884 1
 67C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\yaml\map.js121436361000000000 0
-63C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\src\js\01-gallery.js133178301746706063 0
+63C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\src\js\01-gallery.js133178328556369992 0
 64C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\msgpackr133178260168092535 1
 101C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\AttributeSelector.js121436361000000000 0
 61C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\src\js\02-video.js133178146340000000 0
@@ -272,7 +272,7 @@
 88C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\postcss-value-parser\lib\walk.js121436361000000000 0
 87C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Url.js121436361000000000 0
 64C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\src\.git\objects\info133178218822693383 1
-65C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\@mischnic133178260095237671 1
+65C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\@mischnic133178260095397681 1
 81C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\fclone\dist\fclone.min.js131296532810000000 0
 76C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\tslib\tslib.es6.html121436361000000000 0
 91C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\regions\alt-as.js121436361000000000 0
@@ -295,7 +295,6 @@
 91C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\simplelightbox\demo\img\full\03.jpg121436361000000000 0
 87C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\weak-lru-cache\rollup.config.js121436361000000000 0
 76C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\posthtml-render\dist133178260145218892 1
-70C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.1e368882.js133178302099222203 0
 69C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\src\.git\logs\refs\remotes133178218844976259 1
 99C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\source-map-support\register-hook-require.js121436361000000000 0
 93C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\lmdb-linux-arm64\node.napi.glibc.node121436361000000000 0
@@ -1425,7 +1424,7 @@
 94C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\svgo\plugins\convertEllipseToCircle.js121436361000000000 0
 97C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\features\import-maps.js121436361000000000 0
 88C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\svgo\plugins\convertTransform.js121436361000000000 0
-58C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\index.html133178291060235796 0
+58C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\index.html133178326301507415 0
 80C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\lmdb-win32-x64\README.md121436361000000000 0
 69C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\css-tree\data133178260184773400 1
 83C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\svgo\plugins\mergeStyles.js121436361000000000 0
@@ -1472,6 +1471,7 @@
 107C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-media-interaction.js121436361000000000 0
 110C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\@parcel\workers\test\integration\workerfarm\logging.js121436361000000000 0
 88C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\svgo\plugins\_applyTransforms.js121436361000000000 0
+76C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map133178326301990304 0
 106C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\dom-serializer\node_modules\entities\lib\encode.js121436361000000000 0
 87C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\fast-glob\out\providers\filters133178260174426879 1
 99C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\features\ambient-light.js121436361000000000 0
@@ -2136,6 +2136,7 @@
 73C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data133178260186373798 1
 87C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\regions\NR.js121436361000000000 0
 78C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\nan\nan_maybe_43_inl.h121436361000000000 0
+70C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.53390864.js133178328496005206 0
 102C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\features\array-find-index.js121436361000000000 0
 85C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\fast-glob\out\readers\sync.js121436361000000000 0
 89C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\features\ttf.js121436361000000000 0
@@ -2826,6 +2827,7 @@
 87C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\regions\VN.js121436361000000000 0
 77C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\entities\lib\index.js121436361000000000 0
 87C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\entities\lib\maps\entities.json121436361000000000 0
+77C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\goit-js-hw-08.59712999.js.map133178326301990304 0
 85C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\entities\lib\maps\legacy.json121436361000000000 0
 104C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\entities\lib\generated\decode-data-html.d.ts.map121436361000000000 0
 97C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\entities\lib\generated\decode-data-xml.js121436361000000000 0
@@ -2960,11 +2962,9 @@
 107C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\@parcel\workers\test\integration\workerfarm\echo.js121436361000000000 0
 92C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\css-what\lib\commonjs\index.d.ts.map121436361000000000 0
 86C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\css-what\lib\commonjs\index.js121436361000000000 0
-68C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\02-video.23c7650d.js133178291060235796 0
 88C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\css-what\lib\commonjs\parse.d.ts121436361000000000 0
 89C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\@jridgewell\gen-mapping\README.md121436361000000000 0
 96C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\UnicodeRange.js121436361000000000 0
-72C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\02-video.23c7650d.js.map133178291060715892 0
 92C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\css-what\lib\commonjs\parse.d.ts.map121436361000000000 0
 82C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\@parcel\optimizer-svgo\lib133178260137441327 1
 97C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\@swc\helpers\src\_wrap_async_generator.js132902623550000000 0
@@ -3349,7 +3349,6 @@
 87C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\regions\MD.js121436361000000000 0
 87C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\regions\ME.js121436361000000000 0
 73C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\@trysound\sax\lib133178260137201274 1
-71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\03-feedback.1f48da8c.js133178291060235796 0
 106C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\@swc\helpers\src\_class_apply_descriptor_update.js132959452340000000 0
 87C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\regions\MG.js121436361000000000 0
 106C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\@parcel\runtime-js\src\helpers\worker\js-loader.js121436361000000000 0
@@ -3631,7 +3630,6 @@
 104C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\features\html-media-capture.js121436361000000000 0
 103C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\features\sharedarraybuffer.js121436361000000000 0
 99C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\features\html5semantic.js121436361000000000 0
-75C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.40c4146b.css.map133178291060715892 0
 100C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\features\iframe-sandbox.js121436361000000000 0
 99C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\features\iframe-srcdoc.js121436361000000000 0
 89C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\caniuse-lite\data\features\u2f.js121436361000000000 0
@@ -4900,26 +4898,24 @@
 84C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\.bin\node-gyp-build-test.cmd133178260204057601 0
 84C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\.bin\node-gyp-build-test.ps1133178260204057601 0
 65C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\.bin\sass133178260204137613 0
+75C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133178326301990304 0
 69C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\.bin\sass.cmd133178260204137613 0
 71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\.bin\semver.cmd133178260204137613 0
 71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\.bin\semver.ps1133178260204137613 0
 71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\node_modules\.bin\terser.cmd133178260204137613 0
-74C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.1e368882.js.map133178302099462302 0
-71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.40c4146b.css133178291060235796 0
-70C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.48b09986.js133178302099222203 0
-74C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.48b09986.js.map133178302099462302 0
-71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.b0eace56.css133178302099222203 0
-75C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.b0eace56.css.map133178302099462302 0
-63C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.html133178302099222203 0
-68C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\02-video.a6894901.js133178291060235796 0
-72C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\02-video.a6894901.js.map133178291060715892 0
-61C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\02-video.html133178291060235796 0
-75C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\03-feedback.1f48da8c.js.map133178291060715892 0
-71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\03-feedback.a72bb21a.js133178291060235796 0
-75C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\03-feedback.a72bb21a.js.map133178291060715892 0
-72C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\03-feedback.bb91f3cc.css133178291060235796 0
-76C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\03-feedback.bb91f3cc.css.map133178291060715892 0
-64C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\03-feedback.html133178291060235796 0
+71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.101ee4ef.css133178326301507415 0
+75C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map133178326301990304 0
+74C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.53390864.js.map133178328496084948 0
+71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.7d68834f.css133178326301507415 0
+75C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133178326301990304 0
+63C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\01-gallery.html133178326301507415 0
+68C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\02-video.a74b541c.js133178326301747348 0
+72C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\02-video.a74b541c.js.map133178326301990304 0
+61C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\02-video.html133178326301507415 0
+71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\03-feedback.5440b4f4.js133178326301507415 0
+72C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\03-feedback.ba2d0753.css133178326301507415 0
+64C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\03-feedback.html133178326301507415 0
+73C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\dist\goit-js-hw-08.59712999.js133178326301747348 0
 75C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\assets\actions-config-step-1.png133178240737780309 0
 75C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\assets\actions-config-step-2.png133178240737780309 0
 66C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-08\assets\how-it-works.png133178240737860301 0
