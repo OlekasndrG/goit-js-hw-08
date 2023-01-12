@@ -39,13 +39,12 @@ function onSubmit(evt) {
 populateTextarea();
 function populateTextarea() {
   const USER_DATA = localStorage.getItem(USER);
-  const b = JSON.parse(USER_DATA);
+  const PARSEDATA = JSON.parse(USER_DATA);
 
-  if (b) {
-    refs.form.elements.email.value = b.email;
-    refs.form.elements.message.value = b.message;
+  if (PARSEDATA) {
+    refs.form.elements.email.value = PARSEDATA.email;
+    refs.form.elements.message.value = PARSEDATA.message;
   }
-  console.log(b);
 }
 // populateTextarea();
 //   refs.form.elements.email.value = 'b.email';
